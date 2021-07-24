@@ -1,21 +1,18 @@
 body {
   background-color: antiquewhite;
 }
-.first-box {
-  box-sizing: content-box;
+rectangle {
   border: 8px solid black;
   margin: 16px;
   padding: 16px;
   height: 128px;
   width: 512px;
+}
+rectangle1 {
+  box-sizing: content-box;
   background-color: aquamarine;
 }
-.second-box {
+rectangle2 {
   box-sizing: border-box;
-  border: 8px solid black;
-  margin: 16px;
-  padding: 16px;
-  height: 128px;
-  width: 512px;
   background-color: azure;
 }
