@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+div {
+  border: 2px solid black;
+  margin: 50px;
+  width: auto;
+}
+.first-rec {
+  background-color: blue;
+}
+.second-rec {
+  background-color: yellow;
+}
+.trird-rec {
+  background-color: green;
+}
+.fourth-rec {
+  background-color: pink;
+  height: 100px;
+}
