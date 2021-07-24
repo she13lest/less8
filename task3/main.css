@@ -3,7 +3,7 @@
 }
 .rectangle {
   margin: 50px;
-  border-radius: 20px;
+  border-radius: 16px;
   width: 100px;
   height: 50px;
   background-color: forestgreen;
